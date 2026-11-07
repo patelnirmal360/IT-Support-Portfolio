@@ -21,7 +21,7 @@ I'm using a practice company called **Dummy Corporation** to explore common IT s
 |---|---|
 | [Introduction](Intro/) | Understanding Microsoft Entra ID |
 | [User Creation](users/) | Creating a new employee account |
-| Group Management | Managing users through groups *(Coming soon)* |
+| [groups](groups and access management/) | Managing users through groups |
 
 ## My Goal
 
