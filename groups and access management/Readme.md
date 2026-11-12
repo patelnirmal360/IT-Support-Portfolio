@@ -7,9 +7,6 @@
   ![Alttxt](images/group3.png)
 
 **Now we have created Finance group successfully**
-
-# Business Scenerio
-Dummy corporation has expanded their finance department and no 
 # Adding user to group
  ![Alttxt](images/addingtogroup.png)
 - Step 1: Go to Finance group and click add member 
